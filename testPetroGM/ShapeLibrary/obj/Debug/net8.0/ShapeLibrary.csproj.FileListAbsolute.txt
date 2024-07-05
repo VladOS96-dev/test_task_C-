@@ -1,0 +1,11 @@
+C:\Users\vlad9\source\repos\testPetroGM\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.deps.json
+C:\Users\vlad9\source\repos\testPetroGM\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.dll
+C:\Users\vlad9\source\repos\testPetroGM\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.pdb
+C:\Users\vlad9\source\repos\testPetroGM\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad9\source\repos\testPetroGM\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfoInputs.cache
+C:\Users\vlad9\source\repos\testPetroGM\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfo.cs
+C:\Users\vlad9\source\repos\testPetroGM\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vlad9\source\repos\testPetroGM\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.dll
+C:\Users\vlad9\source\repos\testPetroGM\ShapeLibrary\obj\Debug\net8.0\refint\ShapeLibrary.dll
+C:\Users\vlad9\source\repos\testPetroGM\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.pdb
+C:\Users\vlad9\source\repos\testPetroGM\ShapeLibrary\obj\Debug\net8.0\ref\ShapeLibrary.dll
